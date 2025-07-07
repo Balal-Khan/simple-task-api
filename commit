@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/Balal-Khan/simple-task-api.git
+git add .
+git commit -m "Initial commit - simple Flask API"
+git push -u origin master
